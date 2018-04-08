@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
 
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
 
         /*Sample input
         ZipCodeRange zipCodeRange1 = new ZipCodeRange(94113, 94113);
